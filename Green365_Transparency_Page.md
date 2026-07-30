@@ -25,15 +25,13 @@
 
 ## Ownership Status
 
-**Current owner:** Deployment wallet `0x5312879a47657ed34a605c289917844003a2438c`
+**Ownership has been renounced.** ✅
 
-This wallet currently holds owner rights (via OpenZeppelin's `Ownable`). The contract has **no functions gated by ownership that affect supply, transfers, or balances** — the only owner-only capability is calling `renounceOwnership()` or `transferOwnership()`.
+The contract's `owner` now returns the zero address (`0x0000000000000000000000000000000000000000`) — verifiable directly on [Sepolia Etherscan's Read Contract tab](https://sepolia.etherscan.io/address/0xa9e572cD565813B4CB8a14d5893c5fA452487474#readContract).
 
-**Before any mainnet deployment**, ownership will be either:
-- **Renounced** — permanently removing owner control, maximum trust signal, or
-- **Moved to a timelock** — a delayed-execution contract that preserves a bug-fix path while requiring public disclosure
+This means no one — including the original deployer — can call `renounceOwnership()` or `transferOwnership()` on this contract ever again. The contract had no owner-gated functions affecting supply, transfers, or balances to begin with, so this closes off the only privileged capability that existed.
 
-This decision has not yet been finalized. It will be made and disclosed here before mainnet.
+This same renounce step will be repeated on the mainnet deployment before public launch.
 
 ---
 
