@@ -5,9 +5,9 @@
 # Green365 (G365)
 ### 365 — One Green Action Every Day
 
-![Network](https://img.shields.io/badge/Network-Ethereum%20Mainnet-0b2116?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Live-8faa72?style=for-the-badge)
-![Supply](https://img.shields.io/badge/Supply-365%2C000%2C000%2C000%20G365-c7a25f?style=for-the-badge)
+[![Network](https://img.shields.io/badge/Network-Ethereum%20Mainnet-0b2116?style=for-the-badge)](https://etherscan.io/token/0xa46b8c767d7a3881ec5c09857b96d245e4b9a6a9)
+[![Status](https://img.shields.io/badge/Status-Live-8faa72?style=for-the-badge)](https://etherscan.io/token/0xa46b8c767d7a3881ec5c09857b96d245e4b9a6a9)
+[![Supply](https://img.shields.io/badge/Supply-365%2C000%2C000%2C000%20G365-c7a25f?style=for-the-badge)](https://etherscan.io/token/0xa46b8c767d7a3881ec5c09857b96d245e4b9a6a9)
 
 *An environmental community token. Fully public, fully verifiable.*
 
