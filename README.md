@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./green365-coin.png" width="256" height="256" alt="Green365">
+<img src="./green365-coin.png" width="240" height="240" alt="Green365">
 
 # Green365 (G365)
 ### 365 — One Green Action Every Day
@@ -34,6 +34,8 @@
 ```
 0xa46b8c767d7a3881ec5c09857b96d245e4b9a6a9
 ```
+
+[View on Etherscan →](https://etherscan.io/token/0xa46b8c767d7a3881ec5c09857b96d245e4b9a6a9)
 
 </div>
 
