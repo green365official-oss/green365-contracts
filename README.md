@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./green365-coin.png" width="240" height="240" alt="Green365">
+<img src="./green365-coin.png" width="256" height="256" alt="Green365">
 
 # Green365 (G365)
 ### 365 — One Green Action Every Day
@@ -27,8 +27,18 @@
 
 <br>
 
-Green365 is currently **live on Ethereum Mainnet**: `0xa46b8c767d7a3881ec5c09857b96d245e4b9a6a9`, fixed supply of 365,000,000,000 G365, no mint function after deployment. Phase 1 has no promised utility — Green365 is a community token, not an investment. Phase 2 is unfunded and uncommitted until officially announced.
+<div align="center">
 
-**Not financial or legal advice.**
+**Contract Address**
 
-*Community first. Transparency always.*
+```
+0xa46b8c767d7a3881ec5c09857b96d245e4b9a6a9
+```
+
+</div>
+
+<br>
+
+Phase 1 has no promised utility. Phase 2 is unfunded and uncommitted.
+
+**Not financial or legal advice.** Community first. Transparency always.
