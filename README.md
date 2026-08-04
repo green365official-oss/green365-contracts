@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./green365-logo.png" width="240" height="240" alt="Green365">
+<img src="./green365-coin.png" width="240" height="240" alt="Green365">
 
 # Green365 (G365)
 ### 365 — One Green Action Every Day
@@ -16,6 +16,8 @@
 [![Website](https://img.shields.io/badge/Website-green365official.com-0b2116?style=for-the-badge&logo=googlechrome&logoColor=white)](https://green365official.com/)
 [![Transparency](https://img.shields.io/badge/Transparency-Read%20the%20Facts-c7a25f?style=for-the-badge&logo=gitbook&logoColor=white)](./Green365_Transparency.md)
 [![X](https://img.shields.io/badge/X-%40Green365__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Green365_)
+
+[![Live Info Card](https://img.shields.io/badge/Live%20Info%20Card-Open-8faa72?style=for-the-badge)](https://green365official.com/green365-widget.html)
 
 </div>
 
