@@ -35,7 +35,7 @@ Green365 (G365) is live on Ethereum Mainnet. Phase 1 has no promised utility —
 
 <div align="center">
 
-<img src="./green365-coin.png" width="180" height="180" alt="Green365">
+<img src="./green365-logo.png" width="180" height="180" alt="Green365">
 
 # Green365 (G365)
 ### 365 — One Green Action Every Day
